@@ -22,5 +22,5 @@ Getting hands on with GPU and file encryption. Here I will be going through the 
   ![GPG-encryptedfile](https://github.com/chryber/File-Encryption-with-GPG-aka-GnuPG/assets/121698544/b5484cbd-a497-4f99-89a3-27eba7e01644)
 
 - Using the same command but replacing -c with -d reveals the encryption algorithm (AES256.CFB) as well as the original contents of the file. 
--         gpg -d filename.txt
+-         gpg -d filename.txt.gpg
   ![GPG-encryption2](https://github.com/chryber/File-Encryption-with-GPG-aka-GnuPG/assets/121698544/12fdc971-5709-4b62-8ef9-f7a1d1583b1c)
