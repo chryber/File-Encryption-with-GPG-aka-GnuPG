@@ -1,7 +1,7 @@
 # File Encryption with GPG using Linux Mint
 
 <h2> 🔦 Intro </h2>
-Getting hands on with GPU and file encryption. Here I will be going through the simple steps to use this powerful tool in my Linux Mint VM.
+Getting hands on with GPG and file encryption. Here I will be going through the simple steps to use this powerful tool in my Linux Mint VM.
 
 <h2>🔩 Utlities Used</h2>
 
